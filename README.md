@@ -26,7 +26,7 @@ Feel free to explore our GitHub repository for valuable resources, projects, and
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/saurabhm1/IT-Training.git`
+1. Clone the repository: `git clone https://github.com/saurabh-maurya1/Website--IT-Training-main.git`
 2. Navigate to the project directory: `cd IT-Training`
 3. Open the project in your preferred code editor.
 4. Explore and modify the code to suit your needs.
